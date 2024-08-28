@@ -57,3 +57,9 @@ The notebook concludes with a summary of the findings, insights gained from the 
 - `matplotlib` and `seaborn`: Data visualization.
 - `sklearn`: Machine learning library for model building and evaluation.
 
+## Acknowledgements
+- This project was inspired by Lienar regression Assignment by Upgrad
+
+
+## Contact
+Created by [@chandansharma10698] - feel free to contact me!
