@@ -57,7 +57,7 @@ The notebook concludes with a summary of the findings, insights gained from the 
 - `sklearn`: Machine learning library for model building and evaluation.
 
 ## Acknowledgements
-- This project was inspired by Lienar regression Assignment by Upgrad
+- This project was inspired by Linear regression Assignment by Upgrad
 
 
 ## Contact
