@@ -1,4 +1,3 @@
-# LinearRegressionAssignment
 # Linear Regression Model Building: Boom Bikes Data
 
 ## Introduction
